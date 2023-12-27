@@ -22,9 +22,10 @@ Aside from my day job, I do a personal project with finance where you can input 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />  
 </p>
           
-          
-          
-          
+
+### Contact
+- ✉️ [elme.delossantos@gmail.com](mailto:elme.delossantos@gmail.com "Elme's email address")
+- 📱 +63 932 428 9399 
 <!--
 **iamelme/iamelme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
