@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### I'm Elme delos Santos from Philippines and I'm a front-end developer who loves to code and learn from others.
+### I'm Elme delos Santos from Philippines and I'm a front-end developer who loves to code and eager to learn from others.
 
 Aside from my day job, I do a personal project with finance where you can input and track your expense and revenue.
 
