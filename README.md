@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### I'm Elme delos Santos from Philippines and I'm a front-end developer who loves to code and eager to learn from others.
+### I'm Elme delos Santos from Philippines and I'm a front-end developer who loves to code and eager to learn from others. I use VIM btw 😄
 
 
 
